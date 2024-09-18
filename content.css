@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(247, 247, 247);
+   
+   }
+   
+   h1 {
+   
+       color: rgb(0, 0, 0);
+   }
+
+   nav{
+        background-color: rgb(193, 187, 187);
+        border: 1px solid black
+
+   }
+
+   .pic1{
+      width: 10%;
+      margin: 2%;
+      border-radius: 10px;
+
+   }
